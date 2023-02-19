@@ -1,0 +1,59 @@
+.main-title{
+    font-size: 75px;
+}
+
+.introduction-title {
+    font-size: 50px;
+}
+
+.introduction-paragraph {
+    font-size: 20px;
+}
+
+/* .subtitle-language{
+} */
+
+/* .programming {
+    border: 2px solid red;
+} */
+
+.programming div {
+    display: inline-block;
+    width: 520px;
+}
+
+.programming-html {
+    margin-right: 33px;
+    margin-bottom: 30px;
+}
+
+.programming img{
+    margin: 8px auto;
+    display: block; 
+    width: 520px;
+    height: auto;
+    outline: 2px solid white;
+    border-radius: 1%;
+}
+
+.programming img:hover {
+    opacity: 0.4;
+    transition: 0.5s;
+}
+
+.programming div a:link {
+    text-decoration: none;
+}
+
+.programming div a div {
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: 50px;
+    display: block;
+    text-align: center;
+}
+
+.programming div a div:hover {
+    font-size: 55px;
+    opacity: 0.6;
+}
+
